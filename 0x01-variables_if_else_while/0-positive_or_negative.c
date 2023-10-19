@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Prints a random number decides whether it is positive, negative, or zero
+ *
  * Return: (0) success
  */
 
