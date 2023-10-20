@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * Description: checks on the last digit of the assigned var
- * Returm: (0) success
+ * Returm: Always (0) success
  */
 int main(void)
 {
@@ -23,5 +23,6 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, m);
 	}
-return (0);
+
+	return (0);
 }
