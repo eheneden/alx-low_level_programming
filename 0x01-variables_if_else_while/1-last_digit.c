@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - program that prints last digit of the assigned var
- * Returm: Always (0) success
+ *
+ * Return: Always (0) success
  *
  */
 
